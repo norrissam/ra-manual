@@ -1,2 +1,1 @@
-Welcome to the ra-manual wiki!
-xx
+Welcome to the RA manual!
