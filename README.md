@@ -1,2 +1,2 @@
 # ra-manual
-See RA Manual in wiki.
+Welcome! See RA Manual in wiki.
